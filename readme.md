@@ -26,4 +26,4 @@
 - Display block vs inline
 
 # Ver online
-Para ver online acesse https://rudineiw.github.io/menu-coffee/
+Para ver online acesse https://rudineiw.github.io/maratona-explorer-1/
